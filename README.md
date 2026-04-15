@@ -4,6 +4,7 @@ This project features a two-stage Common Emitter (CE) amplifier designed for hig
  sensitivity through architectural improvements.
   
 🚀 Key Design Features
+
 VOLTAGE DIVIDER BIASING : Ensures a stable Q-point, making the circuit independent of β variations between different transistors.
 EMITTER SWAMPING: Utilizes partially bypassed emitter resistors to provide negative feedback, stabilizing gain and increasing input impedance.
 THERMAL STABILITY: Designed to mitigate internal resistance fluctuations (re')and temperature-induced drift.
